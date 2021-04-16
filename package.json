@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bp-wsb/feedmail.git"
+    "url": "git+https://github.com/motowidlo98/rss_64035.git"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/bp-wsb/feedmail/issues"
+    "url": "https://github.com/motowidlo98/rss_64035/issues"
   },
-  "homepage": "https://github.com/bp-wsb/feedmail#readme"
+  "homepage": "https://github.com/motowidlo98/rss_64035#readme"
 }
