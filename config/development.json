@@ -1,8 +1,8 @@
 {
   "feedmail": {
     "db": {
-        "url": "mongodb://localhost:27017",
-        "name": "dev",
+        "url": "motordb.mongo.cosmos.azure.com:10255",
+        "name": "motordb",
         "options": {
             "useUnifiedTopology": true
         }
