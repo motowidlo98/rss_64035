@@ -1,7 +1,7 @@
 {
   "feedmail": {
     "db": {
-        "url": "https://motordb.mongo.cosmos.azure.com:443/",
+        "url": "motordb.mongo.cosmos.azure.com:443",
         "name": "motordb",
         "options": {
             "useUnifiedTopology": true
